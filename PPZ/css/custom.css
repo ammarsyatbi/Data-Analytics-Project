@@ -1,0 +1,63 @@
+.graph-block {
+	padding: 10px 10px;
+}
+
+/**** Custom styles for noUiSlider ****/
+.noUi-connect {
+	background: #dce775;
+}
+
+.noUi-handle {
+    border: 1px solid #D9D9D9;
+    border-radius: 3px;
+    background: #FFF;
+    cursor: default;
+    box-shadow: inset 0 0 1px #FFF;
+}
+:focus
+{
+	outline: #dce775 auto 5px;
+
+}
+
+.waves-effect.waves-ppz .waves-ripple {
+   /* The alpha value allows the text and background color
+   of the button to still show through. */
+    background-color: rgba(220,231,117, 0.65);
+  }
+
+ .logo{
+ 	position: absolute;
+  	max-height: 100%;
+ 	width: auto;
+ }
+ .nav-wrapper{
+ 	height: 182px;
+ }
+
+/*PRELOADER CUSTOM*/
+.preloader-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eee;
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.8;
+
+}
+
+/*ADD BLINKING TEXT CLASS*/
+.blinking {
+      padding-top:120px;
+    margin-left: -60px;
+    opacity: 0.8;
+  animation: blinker 1.5s linear infinite;
+}
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
