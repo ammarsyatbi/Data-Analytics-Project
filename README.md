@@ -15,7 +15,7 @@ just import to your web server and run index.html
 
 ### Results ###
 
-![](https://github.com/ammarsyatbi/Data-Analytics-Project/blob/master/PPZ/result/paymentcluster.png)
+![](https://github.com/ammarsyatbi/Data-Analytics-Project/blob/master/PPZ/result/paymentcluster.PNG)
 ![](https://github.com/ammarsyatbi/Data-Analytics-Project/blob/master/PPZ/result/ppz1.png)
 ![](https://github.com/ammarsyatbi/Data-Analytics-Project/blob/master/PPZ/result/ppz2.png)
 ![](https://github.com/ammarsyatbi/Data-Analytics-Project/blob/master/PPZ/result/ppz3.png)
